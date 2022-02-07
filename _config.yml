@@ -1,7 +1,8 @@
 # Build settings
 
 port: 4000
-markdown:  kramdown
+
+markdown: GFM
 permalink: /:title  
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 baseurl: "portfolio"
