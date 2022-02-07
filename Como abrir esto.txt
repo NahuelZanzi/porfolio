@@ -1,0 +1,4 @@
+cd portfolio-jekyll-theme-gh-pages
+
+
+jekyll serve
