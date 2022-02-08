@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Que-es-Kleros?"
+title: "Que es Kleros?"
 ---
 Algo muy interesante que surgió en el cruce blockchain/derecho es Kleros. 
 
