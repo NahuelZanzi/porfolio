@@ -21,7 +21,7 @@ projects:
 social:
 - {icon: 'twitter',   link: 'https://github.com/NahuelZanzi'}
 - {icon: 'github',    link: 'https://github.com/NahuelZanzi'}
-- {icon: 'linkedin',  link: 'linkedin.com/in/nahuel-martin'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/nahuel-martin/'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
