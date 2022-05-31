@@ -5,7 +5,7 @@ menu:
 - {name: 'Projects', url: 'project'}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'Alquileres Meli',  url: 'AlquileresMeli'}
 
 #-------------------------------
 # Projects Section
