@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Contact
-permalink: /contact
+title: Alquileres Meli
+permalink: /AlquileresMeli
 ---
 ---
 layout: default
 ---
 
 <section>
-  <h2> Proyecto de analisis de precios de Alquileres en Mercado Libre </h2>
   
   <div class="project">
     <h3>Codigo del proyecto en Google Colab </h3>
