@@ -3,12 +3,8 @@ layout: page
 title: Alquileres Meli
 permalink: /AlquileresMeli
 ---
----
-layout: default
----
-
+<h3>Analisis de precio de alquileres en Mercado Libre</h3>
 <section>
-  
   <div class="project">
     <h3>Codigo del proyecto en Google Colab </h3>
   <a href='https://colab.research.google.com/drive/14DYZGruOPZ-FESxKW509apNLmyGnK9vW?usp=sharing'> <img src="images/web scraping mercado libre.png" alt="Codigo en colab" widh='300' height='200'/> </a>
